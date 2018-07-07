@@ -1,6 +1,7 @@
-https://ci.appveyor.com/api/projects/status/sb90o7mh6ce87skf?svg=true
 
 
+ [![Build status](https://ci.appveyor.com/api/projects/status/sb90o7mh6ce87skf?svg=true)](https://ci.appveyor.com/project/charlie-x/adbputty)
+ 
 This is the README for the source archive of PuTTY, a free Win32
 and Unix Telnet and SSH client.
 
